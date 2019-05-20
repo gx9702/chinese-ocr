@@ -52,7 +52,7 @@ cd train & sh train-pytorch.sh
 
 <div>
 <img width="300" height="300" src="https://github.com/gx9702/chinese-ocr/blob/master/img/tmp1.jpg"/>
-<img width="300" height="300" src="https://github.com/gx9702/chinese-ocr/blob/master/img/tmp1.png"/>
+<img width="571" height="150" src="https://github.com/gx9702/chinese-ocr/blob/master/img/tmp1.png"/>
 </div>
 
 ## 参考
